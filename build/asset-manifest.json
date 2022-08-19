@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/praveenchats.github.io/static/css/main.cb6097ee.chunk.css",
+    "main.js": "/praveenchats.github.io/static/js/main.466d7ae6.chunk.js",
+    "main.js.map": "/praveenchats.github.io/static/js/main.466d7ae6.chunk.js.map",
+    "runtime-main.js": "/praveenchats.github.io/static/js/runtime-main.be381740.js",
+    "runtime-main.js.map": "/praveenchats.github.io/static/js/runtime-main.be381740.js.map",
+    "static/js/2.595fedbe.chunk.js": "/praveenchats.github.io/static/js/2.595fedbe.chunk.js",
+    "static/js/2.595fedbe.chunk.js.map": "/praveenchats.github.io/static/js/2.595fedbe.chunk.js.map",
+    "static/js/3.263a9caf.chunk.js": "/praveenchats.github.io/static/js/3.263a9caf.chunk.js",
+    "static/js/3.263a9caf.chunk.js.map": "/praveenchats.github.io/static/js/3.263a9caf.chunk.js.map",
+    "index.html": "/praveenchats.github.io/index.html",
+    "static/css/main.cb6097ee.chunk.css.map": "/praveenchats.github.io/static/css/main.cb6097ee.chunk.css.map",
+    "static/js/2.595fedbe.chunk.js.LICENSE.txt": "/praveenchats.github.io/static/js/2.595fedbe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be381740.js",
+    "static/js/2.595fedbe.chunk.js",
+    "static/css/main.cb6097ee.chunk.css",
+    "static/js/main.466d7ae6.chunk.js"
+  ]
+}
